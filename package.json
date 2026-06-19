@@ -8,6 +8,6 @@
     "vue-template-compiler": "^2.6.10"
   },
   "devDependencies": {
-    "webpack-dev-server": "^5.2.4"
+    "webpack-dev-server": "^5.2.5"
   }
 }
